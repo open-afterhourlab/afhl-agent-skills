@@ -9,7 +9,10 @@ Test Driven Development (TDD) centered SDLC.
 
 | Condition | Description |
 | --------- | ----------- |
-| Technical Design | High level of the technical implementation |
+| Domain Language | Agreed upon ubiquitous language for the domain being designed |
+| Acceptance Criteria | Agreed functional and non-functional acceptance criteria |
+| Technical Design | High level of the technical implementation to meet the acceptance criteria |
+| UI Design | Defines how the user will interact with our system through the frontend |
 
 ## Overview
 
@@ -25,7 +28,7 @@ This sets up where your task folder is to allow:
 * Additional context about the task to be discovered (e.g. scope of task)
 * Write outputs for sequencing of steps.
 
-Run [Skill: afhl-set-task-context](../../../../skills/afhl-set-task-context/) 
+Run [Skill: afhl-set-pd-context](../../../../skills/afhl-set-pd-context/) 
 
 ### Step: Implement - Write Test Specs
 

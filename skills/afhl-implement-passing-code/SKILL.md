@@ -15,7 +15,7 @@ One or more test files. If not provided, ask user.
 
 ### From Context
 
-Optional context from `afhl-set-task-context`:
+Optional context:
 
 ```text
 context:
