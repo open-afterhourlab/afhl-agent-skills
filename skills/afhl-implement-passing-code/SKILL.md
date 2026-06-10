@@ -27,7 +27,7 @@ context:
 
 | Input name | Description | Provided by |
 | ---------- | ----------- | --- |
-| Technical design | The technical design for overall feature, where test files contribute to the implementation. | Either as text in format `tech-design: <filepath>`, or, if `afhl_epic_workspace` is given, the file `<afhl_epic_workspace>/adr.md` |
+| Technical design | The technical design for overall feature, where test files contribute to the implementation. | Either as text in format `tech-design: <filepath>`, or, if `afhl_epic_workspace` is given, the file `<afhl_epic_workspace>/tech-decision.md` |
 
 ## Actions
 

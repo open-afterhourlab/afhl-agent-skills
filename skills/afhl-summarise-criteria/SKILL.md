@@ -22,7 +22,7 @@ If `afhl_epic_workspace` is not provided, prompt the user to provide it before c
 
 ## Changeset Validation and Resolution
 
-A changeset is either a pull request or a commit that contains changes to the codebase.
+A changeset is either a pull request or a commit that contains changes to the decision criteria.
 
 ### Missing Value Rules
 

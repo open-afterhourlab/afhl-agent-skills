@@ -11,3 +11,7 @@ Proposed Changeset: <!-- Domain Language Changeset goes here -->
 Proposed Changeset: <!-- Acceptance Criteria Changeset goes here -->
 
 #### Summary
+
+## Design
+
+#### Summary

@@ -58,7 +58,7 @@ This is the red stage of TDD
 This is the green and refactor stage of TDD.
 
 1. Associate the test file that you want the agent to implement the code for.
-2. Optional: You can associate a technical design via the input text `tech-design: <filepath>`.  If you have setup task context earlier, it should pick up the `adr.md` file.
+2. Optional: You can associate a technical design via the input text `tech-design: <filepath>`.  If you have setup task context earlier, it should pick up the `tech-decision.md` file.
 3. Run [Skill: afhl-implement-passing-code](../../../../../afhl-agent-skills/skills/afhl-implement-passing-code/)
 4. Review and stage changes.
 5. Continue to guide agent for more changes and stage at every iteration.
