@@ -45,6 +45,7 @@ Treat the following as placeholders as tests that need implementation:
 2. Do not modify unrelated files unless:
   * it is needed to make test code compile
   * it is needed to add a concise comment in existing implementation that made a newly implemented test pass
+3. Do not implement code to pass the test.
 
 ## Definition of done
 
